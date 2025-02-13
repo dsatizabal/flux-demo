@@ -16,3 +16,4 @@ spec:
     createNamespace: true
   interval: 1m0s
   releaseName: gpu-operator
+  targetNamespace: nvidia-operator
